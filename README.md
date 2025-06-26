@@ -1,71 +1,54 @@
-Amit Kumar's Portfolio
+<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
+<h3 align="center">Associate Software Engineer @Oracle | Java • Spring Boot • Kafka | NIT Agartala '23</h3>
 
-Full-Stack Software Engineer | Java • Spring Boot • Kafka | Performance Optimizer
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit4996" alt="amit4996" /></a> </p>
 
-📍 Associate Software Engineer @Oracle | NIT Agartala ‘23 | Bengaluru, India
-🔗 Live Portfolio | 📧 amitkumaroffic@gmail.com | 📞 +91-8210437532
-✨ Professional Summary
+- 🔭 I’m currently working on **scalable backend systems at Oracle**
+- 🌱 I’m currently diving deeper into **Event-Driven Architectures with Apache Kafka**
+- 👨‍💻 My projects showcase expertise in **Java, Spring Boot, Microservices, and React.js**
+- 💬 Ask me about **REST APIs, performance optimization, or CI/CD pipelines**
+- 📫 How to reach me: **amitkumaroffic@gmail.com** | +91-8210437532
+- ⚡ Fun fact: **Improved system performance by 20%+ at Oracle**
 
-Full-stack engineer with 2+ years of experience building scalable applications using Java, Spring Boot, React.js, and Apache Kafka. Proven track record of:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amit4996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-kumar-oracle" height="30" width="40" /></a>
+<a href="https://leetcode.com/yourusername/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+</p>
 
-    Improving system performance by 20% through RESTful API optimizations.
+<h3 align="left">🛠️ Tech Stack:</h3>
 
-    Reducing processing times via microservices and event-driven architectures.
+**Backend & Cloud**  
+<p align="left">
+  <a href="https://java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
+  <a href="https://docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+</p>
 
-    Modernizing UIs (Oracle JET) and automating workflows (Jenkins, Selenium).
+**Frontend & Fullstack**  
+<p align="left">
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://oracle.com/jet" target="_blank" rel="noreferrer"><img src="https://www.oracle.com/a/ocom/img/oj-logo.png" alt="oracle-jet" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+</p>
 
-🛠️ Core Skills
-Category	Technologies
-Backend	Java, Spring Boot, REST APIs, GraphQL, Apache Kafka, Node.js
-Frontend	React.js, JavaScript, TypeScript, Oracle JET, HTML5/CSS3
-Databases	MongoDB, MySQL, Oracle
-DevOps/Cloud	Docker, Kubernetes, Jenkins, Git
-Testing	JUnit, Mockito, Selenium
-Methodologies	Microservices, Agile/Scrum, TDD, CI/CD
-🚀 Key Projects
-1. Batch Payment Modernization @Oracle
+**Databases & DevOps**  
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+</p>
 
-    Tech Stack: Oracle JET, Java, Apache Kafka
+<h3 align="left">📈 GitHub Stats:</h3>
 
-    Achievements:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amit4996&show_icons=true&theme=radical&count_private=true" alt="amit4996" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit4996&theme=radical" alt="amit4996" />
+</p>
 
-        Modernized UI/UX, reducing processing time for batch payments.
-
-        Integrated Kafka for real-time event processing (99.9% uptime).
-
-        Resolved critical BRM/BillingCare issues with minimal downtime.
-
-2. Employee Management System
-
-    Tech Stack: React.js, Node.js, MongoDB
-
-    Achievements:
-
-        Managed 500+ employee records with secure authentication.
-
-        Automated workflows, improving task completion by 20%.
-
-3. Ignite E-Cell Website (NIT Agartala)
-
-    Tech Stack: React.js, JavaScript
-
-    Achievements:
-
-        Handled 1,000+ concurrent users during a 3-day fest.
-
-        Achieved 95+ PageSpeed score with optimized performance.
-
-(Add other projects like Lux Platform Migration if needed)
-📜 Education & Certifications
-
-    B.Tech in E&I Engineering, NIT Agartala (2019–2023) – GPA: 8.78
-
-    Higher Secondary (CBSE): 91% | Matriculation (ICSE): 93.33%
-
-📬 Connect With Me
-
-    LinkedIn: linkedin.com/in/amit4996
-
-    GitHub: github.com/amit4996
-
-    Email: amitkumaroffic@gmail.com
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=amit4996&label=Profile%20views&color=0e75b6&style=flat" alt="amit4996" /> 
+  <a href="https://github.com/amit4996?tab=followers"><img src="https://img.shields.io/github/followers/amit4996?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
