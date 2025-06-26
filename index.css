@@ -682,3 +682,30 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
+/* Timeline adjustments for mobile */
+@media (max-width: 768px) {
+    .timeline::before {
+        left: 20px; /* Move line closer to left edge */
+    }
+
+    .timeline-date {
+        position: relative;
+        width: 100%;
+        text-align: left;
+        padding-left: 40px; /* Add space for the line */
+        margin-bottom: 10px;
+    }
+
+    .timeline-content {
+        margin-left: 0;
+        padding-left: 40px; /* Align with date */
+        border-left: none;
+        border-top: 3px solid var(--neon-pink);
+        padding-top: 15px;
+    }
+
+    .timeline-item {
+        margin-bottom: 30px;
+    }
+}
