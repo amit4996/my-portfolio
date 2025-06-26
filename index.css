@@ -683,29 +683,29 @@ footer {
     }
 }
 
-/* Timeline adjustments for mobile */
+/* Mobile-specific timeline changes */
 @media (max-width: 768px) {
     .timeline::before {
-        left: 20px; /* Move line closer to left edge */
+        display: none; /* This removes the vertical line */
     }
-
+    
     .timeline-date {
         position: relative;
         width: 100%;
         text-align: left;
-        padding-left: 40px; /* Add space for the line */
+        padding-left: 0; /* Remove the left padding */
         margin-bottom: 10px;
+        background: rgba(0, 255, 255, 0.1); /* Optional: subtle background */
+        padding: 10px;
+        border-radius: 5px;
     }
 
     .timeline-content {
         margin-left: 0;
-        padding-left: 40px; /* Align with date */
+        padding-left: 0; /* Remove left padding */
         border-left: none;
-        border-top: 3px solid var(--neon-pink);
+        border-top: 3px solid var(--neon-pink); /* Keep top border for separation */
         padding-top: 15px;
-    }
-
-    .timeline-item {
-        margin-bottom: 30px;
+        margin-top: 10px;
     }
 }
