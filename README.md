@@ -7,13 +7,13 @@
 - 🌱 I’m currently diving deeper into **Event-Driven Architectures with Apache Kafka**
 - 👨‍💻 My projects showcase expertise in **Java, Spring Boot, Microservices, and React.js**
 - 💬 Ask me about **REST APIs, performance optimization, or CI/CD pipelines**
-- 📫 How to reach me: **amitkumaroffic@gmail.com** | +91-8210437532
+- 📫 How to reach me: **amitkumaroffic@gmail.com**
 - ⚡ Fun fact: **Improved system performance by 20%+ at Oracle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amit4996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-kumar-oracle" height="30" width="40" /></a>
-<a href="https://leetcode.com/yourusername/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/littlecoder4996/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠️ Tech Stack:</h3>
@@ -30,7 +30,7 @@
 **Frontend & Fullstack**  
 <p align="left">
   <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://oracle.com/jet" target="_blank" rel="noreferrer"><img src="https://www.oracle.com/a/ocom/img/oj-logo.png" alt="oracle-jet" width="40" height="40"/></a>
+  <a href="https://www.oracle.com/application-development/technologies/jet/oracle-jet.html" target="_blank" rel="noreferrer"><img src="https://www.oracle.com/a/ocom/img/oj-logo.png" alt="oracle-jet" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
 </p>
 
